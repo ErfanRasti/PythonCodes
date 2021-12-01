@@ -1,2 +1,2 @@
 # PythonTutorials
-This repository includes source codes of some useful tutorials.
+This repository includes source codes of some useful codes.

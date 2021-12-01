@@ -1,0 +1,13 @@
+We can convert py files to ipynb by jupytext.
+For example:
+jupytext --to notebook test.py
+
+We can do this with another library, like: ipynb-py-convert
+For example:
+ipynb-py-convert test.py test.ipynb
+
+But jupytext is better.
+
+Also we can convert ipynb files to py files.
+For example:
+ipynb-py-convert test.ipynb test.py
